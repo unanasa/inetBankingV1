@@ -1,0 +1,56 @@
+2022-07-10 14:44:00 INFO  eBanking:14 - Opened the url
+2022-07-10 14:44:00 INFO  eBanking:18 - Entered username
+2022-07-10 14:44:00 INFO  eBanking:20 - Entered password
+2022-07-10 14:44:03 INFO  eBanking:27 - Lofin success
+2022-07-10 14:45:09 INFO  eBanking:14 - Opened the url
+2022-07-10 14:45:10 INFO  eBanking:18 - Entered username
+2022-07-10 14:45:10 INFO  eBanking:20 - Entered password
+2022-07-10 14:48:41 INFO  eBanking:14 - Opened the url
+2022-07-10 14:48:41 INFO  eBanking:18 - Entered username
+2022-07-10 14:48:41 INFO  eBanking:20 - Entered password
+2022-07-10 14:48:44 INFO  eBanking:31 - Login failed
+2022-07-10 14:51:48 INFO  eBanking:14 - Opened the url
+2022-07-10 14:51:48 INFO  eBanking:18 - Entered username
+2022-07-10 14:51:48 INFO  eBanking:20 - Entered password
+2022-07-10 14:51:51 INFO  eBanking:31 - Login failed
+2022-07-10 14:51:51 ERROR eBanking:32 - com.inetBanking.pageObjects.LoginPage@5496c165
+2022-07-10 14:53:53 INFO  eBanking:14 - Opened the url
+2022-07-10 14:53:53 INFO  eBanking:18 - Entered username
+2022-07-10 14:53:53 INFO  eBanking:20 - Entered password
+2022-07-10 14:53:55 INFO  eBanking:31 - Login failed
+2022-07-10 14:53:55 ERROR eBanking:32 - com.inetBanking.pageObjects.LoginPage@5496c165
+2022-07-10 15:00:35 INFO  eBanking:14 - Opened the url
+2022-07-10 15:00:35 INFO  eBanking:18 - Entered username
+2022-07-10 15:00:35 INFO  eBanking:20 - Entered password
+2022-07-10 15:05:47 INFO  eBanking:14 - Opened the url
+2022-07-10 15:05:47 INFO  eBanking:18 - Entered username
+2022-07-10 15:05:48 INFO  eBanking:20 - Entered password
+2022-07-10 15:05:51 INFO  eBanking:31 - Login failed
+2022-07-10 15:10:41 INFO  eBanking:14 - Opened the url
+2022-07-10 15:10:41 INFO  eBanking:18 - Entered username
+2022-07-10 15:10:41 INFO  eBanking:20 - Entered password
+2022-07-10 15:10:44 INFO  eBanking:31 - Login failed
+2022-07-13 00:20:02 INFO  eBanking:14 - Opened the url
+2022-07-13 00:20:02 INFO  eBanking:18 - Entered username
+2022-07-13 00:20:02 INFO  eBanking:20 - Entered password
+2022-07-13 00:20:05 INFO  eBanking:31 - Login failed
+2022-07-13 00:20:48 INFO  eBanking:14 - Opened the url
+2022-07-13 00:20:48 INFO  eBanking:18 - Entered username
+2022-07-13 00:20:48 INFO  eBanking:20 - Entered password
+2022-07-13 00:20:51 INFO  eBanking:31 - Login failed
+2022-07-13 00:21:19 INFO  eBanking:14 - Opened the url
+2022-07-13 00:21:19 INFO  eBanking:18 - Entered username
+2022-07-13 00:21:19 INFO  eBanking:20 - Entered password
+2022-07-13 00:21:21 INFO  eBanking:27 - Lofin success
+2022-07-13 02:37:03 INFO  eBanking:52 - Opened the url
+2022-07-13 02:37:03 INFO  eBanking:17 - Entered username
+2022-07-13 02:37:04 INFO  eBanking:19 - Entered password
+2022-07-13 02:37:06 INFO  eBanking:26 - Lofin success
+2022-07-13 02:38:44 INFO  eBanking:52 - Opened the url
+2022-07-13 02:38:45 INFO  eBanking:17 - Entered username
+2022-07-13 02:38:45 INFO  eBanking:19 - Entered password
+2022-07-13 02:38:49 INFO  eBanking:26 - Lofin success
+2022-07-13 02:41:03 INFO  eBanking:52 - Opened the url
+2022-07-13 02:41:03 INFO  eBanking:17 - Entered username
+2022-07-13 02:41:03 INFO  eBanking:19 - Entered password
+2022-07-13 02:41:05 INFO  eBanking:26 - Lofin success
